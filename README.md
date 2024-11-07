@@ -97,5 +97,3 @@ The app will open in your browser, providing an interactive interface for testin
 This project was inspired by Krish Naik’s Udemy course on Generative AI. Special thanks to Krish Naik for his insightful lessons, which greatly informed the development of this project.
 
 --- 
-
-This README gives a clear overview and helps guide users in setting up and exploring your project. Let me know if you’d like to add any specific details!
